@@ -1,0 +1,58 @@
+
+
+header {
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+
+nav {
+  margin: 0 auto;
+}
+
+nav a {
+  color: red;
+}
+
+body {
+  background-color: red;
+  /*position: relative;*/
+}
+
+nav a:hover {
+  color: white;
+}
+
+img {
+  width: 33%;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+    
+    
+}
+
+footer li {
+  float: left;
+}
+
+footer li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
+}
+footer {
+/*position: absolute;*/
+margin: 200px;
+}
