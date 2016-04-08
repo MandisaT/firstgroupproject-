@@ -1,8 +1,10 @@
 .right{
 	float: right;
+	margin-right: 50px;
 }
 .left {
 	float: left;
+	margin-left: 50px;
 }
 
 h1 {
