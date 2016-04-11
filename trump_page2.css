@@ -1,3 +1,6 @@
+header {
+	line-height: 150%;
+}
 .right{
 	float: right;
 	margin-right: 50px;
@@ -18,12 +21,27 @@ h2 {
 p {
 	width: 512px; 
 	height: 372px; 
-	margin-left: 200px;
+	margin-left: 280px;
 	float: left;
 }
 #opposed {
-	margin-left: 410px;
+	margin-left: 308px;
+	margin-top: -210px;
 }
 body {
 	background-color: rgba(212, 144, 161, .5);
+}
+.gop {
+	margin-top: 50px;
+}
+nav {  
+    margin-top: 200px;
+    font-size: 25px;
+
+    }
+nav a {
+  color: red;
+}
+nav a:hover {
+  color: white;
 }
