@@ -1,20 +1,88 @@
+
+.border{
+
+	width:75%
+	height:auto;
+	border:3px #3B94F9 ;
+
+
+
+}
+
 #container1{
 
 
 	width:100%;
 }
+ 
 
+ 	p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+
+ 
+
+.font{
+	margin-top: 150px;
+	padding :150px;
+}
 #col1{
-	float:left;
-	width:50%;
-	height:100%;
-	background-color:lightblue;
+	border-right-style:solid ;
+	margin-top: 100px;
+	padding :40px;
+	display:inline-block;
+	margin-right: 0 auto ;
+	margin-left: 0 auto ;
+	width:20%;
+	height:70%;
+	
+
+ 
+}
+
+.image{
+	width:99%;
+	height:auto;
+
+}
+
+.logo{
+	width:15%;
+	height:auto;
+
+}
+
+.bh{
+	width:75%;
+	height:auto;
 
 }
 
 #col2{
-float:left;
-width:50%;
-height:100%;
-background-color:blue;
+	margin-top: 100px;
+	padding: 40px;
+	display:inline-block;
+	margin-right: 0 auto ;
+	margin-left:0 auto;
+	width:20%;
+	height:70%;
+
+
+}
+
+
+.right{
+	float: right;
+}
+.left {
+	float: left;
+}
+
+h1 {
+	text-align: center;
+	font-size: 100px;
+}
+h2 {
+	text-align: center;
+	font-size: 60px;
 }
