@@ -1,4 +1,5 @@
 
+
 header {
   background-color: blue;
   text-align: center;
@@ -13,6 +14,7 @@ nav a {
   color: red;
 }
 ​
+
 .border{
 
 	width:75%
@@ -29,12 +31,11 @@ nav a {
 	width:100%;
 }
  
-
  	p.serif {
     font-family: "Times New Roman", Times, serif;
 }
 
- 
+
 
 .font{
 	margin-top: 150px;
