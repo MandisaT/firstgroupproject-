@@ -1,4 +1,18 @@
 
+header {
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+​
+nav {
+  margin: 0 auto;
+}
+​
+nav a {
+  color: red;
+}
+​
 .border{
 
 	width:75%
