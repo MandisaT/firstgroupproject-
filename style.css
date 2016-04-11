@@ -1,4 +1,20 @@
 
+
+header {
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+​
+nav {
+  margin: 0 auto;
+}
+​
+nav a {
+  color: red;
+}
+​
+
 .border{
 
 	width:75%
@@ -15,12 +31,11 @@
 	width:100%;
 }
  
-
  	p.serif {
     font-family: "Times New Roman", Times, serif;
 }
 
- 
+
 
 .font{
 	margin-top: 150px;
